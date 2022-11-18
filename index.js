@@ -1,8 +1,8 @@
-let i=10;
-const lastNumber=33;
+let i=0;
+const lastNumber=100;
 let message= '';
 while (i<lastNumber){
-    i++ ;
+    i+=2 ;
    document.write (i+'<br>')
 } console.log(message)
 
