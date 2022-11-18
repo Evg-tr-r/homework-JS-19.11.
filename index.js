@@ -5,3 +5,10 @@ if (a=='1'){
 } else {
     console.log ('Нeверно');
 }
+//
+const test=true;
+if (test==true){
+    console.log ('Верно');
+} else {
+    console.log ('Нeверно');
+}
