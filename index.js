@@ -1,10 +1,8 @@
-let i=0;
-const lastNumber=100;
-let message= '';
-while (i<lastNumber){
-    i+=2 ;
-   document.write (i+'<br>')
-} console.log(message)
+let sum=0;
+for (let i=0 ;i<=100; i++){
+    sum+=i;
+}
+console.log(sum);
 
 
 
