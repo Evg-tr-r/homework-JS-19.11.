@@ -1,5 +1,5 @@
-let i=0;
-const lastNumber=100;
+let i=10;
+const lastNumber=33;
 let message= '';
 while (i<lastNumber){
     i++ ;
